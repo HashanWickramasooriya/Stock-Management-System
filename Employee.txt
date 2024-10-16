@@ -1,0 +1,4 @@
+1 Hashan Wickramasooriya Manager Male 88,Kandy 0711567353
+2 Roshan Wickramasinghe Manager Male 21,Peradeniya 0771359815
+4 Kamal Randeniya Cashier Male 18,Kandy 0756732489
+5 Amal Perera Manager Male 32,Kandy 776543213

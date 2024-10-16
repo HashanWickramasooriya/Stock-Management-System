@@ -1,0 +1,10 @@
+1234 Mobile iphone14 Rs.590,000 13
+567 Mobile iphone11 Rs400,000 6 
+1134 Watch WatchUltra Rs255,900 20
+2020 Watch WatchSeries 8 Rs127,700 16
+2875 Laptop MacBookAir Rs400,000 10
+9987 Laptop MacBookPro Rs420,000 18
+100 iPad iPadPro Rs255,000 10
+101 iPad iPadAir Rs200,000 6
+876 AirPods AirPodsMax Rs41,000 15
+888 AirPods AirPodsPro Rs80,000 10
